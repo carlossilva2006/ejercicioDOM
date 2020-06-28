@@ -1,0 +1,165 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    margin-left: 25%;
+    margin-top: 10px;
+    color: white;
+}
+
+#titulo{
+    background: black;
+    width: 1048px;
+    height: 70px;
+    margin-left: 89px;
+}
+
+#principal{
+    display: flex;
+    flex-direction: row;
+    width: 1070px;
+    height: 400px;
+    margin-left: 67px;
+    /* background: black; */
+}
+
+#formCal{
+    display: flex;
+    flex-direction: column;
+    width: 270px;
+}
+
+#facto{
+ border:1px solid silver;
+ display: flex;
+ flex-direction: column;
+ width: 235px;
+ height: 120px;
+ margin-left: 9%;
+}
+
+#numFactor{
+    width: 155px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+#l1{
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+p{
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+#calcular{
+    width: 70px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+/* -------------Ejercicio 6---------------- */
+#parIm{
+    border:1px solid silver;
+    display: flex;
+    flex-direction: column;
+    width: 235px;
+    margin-left: 9%;
+    height: 130px;
+    margin-top: 5px;
+}
+
+#l2{
+    margin-left: 10px;
+    margin-top: 9px;
+}
+
+#parImp{
+    margin-left: 12px;
+    width: 155px;
+    margin-top: 5px;
+}
+
+#consultar{
+    width: 70px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+/* ---------------Ejercicio 7-------------- */
+#form{
+    display: flex;
+    flex-direction: row;
+    /* margin-top: 15px; */
+    margin-left: 10px;
+}
+
+.h21{
+    margin-left: 5px;
+    font-size: 21px;
+    color: black;
+}
+
+#laabel{
+    margin-left: 22%;
+}
+
+#form1{
+    border:1px solid silver;
+    width: 380px;
+    height: 350px;
+    margin-left: 1px;
+    display: flex;
+    flex-direction: column;
+}
+
+#form2{
+    margin-left: 5px;
+    display: flex;
+    flex-direction: column;
+    width: 420px;
+    height: 350px;
+    background: black;
+    color: white;
+    border: 1px solid black;
+}
+
+#meLen{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+
+h2{
+    margin-left: 19%;
+    margin-top: 8px;
+    margin-bottom: 15px;
+    color: white;
+}
+
+h4{
+    margin-left: 29%;
+    margin-top: 8px;
+    margin-bottom: 20px;
+    color: white;
+}
+
+#mensaje{
+    width: 290px;
+    height: 100px;
+    margin-left: 14%;
+    margin-bottom: 19px;
+    background: black;  
+    color:white;  
+}
+
+#pulsar{
+    width:120px;
+    height: 25px;
+    margin-left: 33%;
+    background: black;
+    color: white;
+} 
+
+
